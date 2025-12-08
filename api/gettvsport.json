@@ -12,14 +12,14 @@
   },
   {
     "id": "-6000999",
-    "title": "tv3",
+    "title": "Bein Sport 1",
     "filter": "tv",
     "imgurl": "tv3",
-    "channelurl": "https://stream.ayas.ir/hls2/tv3test.m3u8",
+    "channelurl": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/adaptive.m3u8",
     "description": "شبکه 3 صدا و سیمای ایران",
     "type": "m3u8",
     "isOnline": "1",
-    "urlImage": ""
+    "urlImage": "https://raw.githubusercontent.com/androidappsx/shabakatytv/refs/heads/main/api/img/bein_balckx.jpg"
   },
   {
     "id": "-6000899",
