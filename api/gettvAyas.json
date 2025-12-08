@@ -1,0 +1,112 @@
+[
+  {
+    "id": "-400606",
+    "title": "شبکه ایاس",
+    "filter": "ayas",
+    "imgurl": "ayas",
+    "channelurl": "https://stream.ayas.ir/hls2/ayasktv.m3u8",
+    "description": "",
+    "type": "m3u8",
+    "isOnline": "1",
+    "urlImage": ""
+  },
+  {
+    "id": "-400605",
+    "title": "شبکه ایاس کیفیت پایین",
+    "filter": "ayas",
+    "imgurl": "ayas",
+    "channelurl": "https://stream.ayas.ir/hls2/ayas.m3u8",
+    "description": "",
+    "type": "m3u8",
+    "isOnline": "1",
+    "urlImage": ""
+  },
+  {
+    "id": "-400604",
+    "title": "شبکه ایاس کیفیت بالا",
+    "filter": "ayas",
+    "imgurl": "ayas",
+    "channelurl": "https://stream.ayas.ir/hls2/livehd.m3u8",
+    "description": "",
+    "type": "m3u8",
+    "isOnline": "1",
+    "urlImage": ""
+  },
+  {
+    "id": "-400053",
+    "title": "نماهنگ ظهر عاشورای حسینی سال 1445 ه.ق شهر آیسک",
+    "filter": "ayas",
+    "imgurl": "ayas",
+    "channelurl": "http://46.245.122.8:8080/namahang1402.m3u8",
+    "description": "",
+    "type": "m3u8",
+    "isOnline": "1",
+    "urlImage": ""
+  },
+  {
+    "id": "-400050",
+    "title": "آئین سنتی نخل و تخت گردانی عاشورای حسینی 1402 شهر آیسک",
+    "filter": "ayas",
+    "imgurl": "ayas",
+    "channelurl": "http://46.245.122.8:8080/ashura1402.m3u8",
+    "description": "",
+    "type": "m3u8",
+    "isOnline": "1",
+    "urlImage": ""
+  },
+  {
+    "id": "-400045",
+    "title": "منتخب عاشورای حسینی 1402 شهر آیسک",
+    "filter": "ayas",
+    "imgurl": "ayas",
+    "channelurl": "https://ayas.ir/up/film/ashura/1402-480.m3u8",
+    "description": "",
+    "type": "m3u8",
+    "isOnline": "1",
+    "urlImage": ""
+  },
+  {
+    "id": "-400018",
+    "title": "عاشورای حسینی 1401 شهر آیسک",
+    "filter": "ayas",
+    "imgurl": "ayas",
+    "channelurl": "https://ayas.ir/up/film/aashoora1401/aashoora1401.m3u8",
+    "description": "",
+    "type": "m3u8",
+    "isOnline": "1",
+    "urlImage": ""
+  },
+  {
+    "id": "-14000",
+    "title": "ورود به گروه پشتیبانی ایاس تی وی",
+    "filter": "ayas",
+    "imgurl": "whatsapp2",
+    "channelurl": "https://chat.whatsapp.com/Krm9mQ3TtpUJ2wGEPKyzGu",
+    "description": "",
+    "type": "outurl",
+    "isOnline": "0",
+    "urlImage": "https://ayas.ir/icon/whatsapp.png"
+  },
+  {
+    "id": "-1996",
+    "title": "آرشیو تمام مراسمات پخش زنده",
+    "filter": "ayas",
+    "imgurl": "ayas",
+    "channelurl": "https://ayas.ir/tv/archive",
+    "description": "آرشیو ایاس",
+    "type": "inurl",
+    "isOnline": "0",
+    "urlImage": ""
+  },
+  {
+    "id": "-1980",
+    "title": "فیلم ایرانی، خارجی و کودک",
+    "filter": "ayas",
+    "imgurl": "cinema",
+    "channelurl": "https://ayas.ir/tv",
+    "description": "در این بخش فیلم های مختلف ایرانی، خارجی و سینمایی برای شما قابل مشاهده خواهند بود.",
+    "type": "outurl",
+    "isOnline": "1",
+    "urlImage": null
+  }
+]
