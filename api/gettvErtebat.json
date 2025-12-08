@@ -1,0 +1,57 @@
+[
+  {
+    "id": "199000",
+    "title": "Whatsapp Group",
+    "filter": "ertebat",
+    "imgurl": "whatsapp2",
+    "channelurl": "https://chat.whatsapp.com/Krm9mQ3TtpUJ2wGEPKyzGu",
+    "description": "",
+    "type": "outurl",
+    "isOnline": "1",
+    "urlImage": "https://ayas.ir/icon/whatsapp.png"
+  },
+  {
+    "id": "200000",
+    "title": "Whats app",
+    "filter": "ertebat",
+    "imgurl": "ayas",
+    "channelurl": "https://api.whatsapp.com/send?phone=989380291826&amp;text=Hi. I am From ayastv",
+    "description": "",
+    "type": "outurl",
+    "isOnline": "1",
+    "urlImage": "https://ayas.ir/icon/whatsapp.png"
+  },
+  {
+    "id": "200001",
+    "title": "Telegram Channels",
+    "filter": "ertebat",
+    "imgurl": "ayas",
+    "channelurl": "https://t.me/ayassport",
+    "description": "",
+    "type": "outurl",
+    "isOnline": "1",
+    "urlImage": "https://ayas.ir/icon/telegram.png"
+  },
+  {
+    "id": "200002",
+    "title": "Telegram Group",
+    "filter": "ertebat",
+    "imgurl": "ayas",
+    "channelurl": "https://t.me/ayassport2",
+    "description": "",
+    "type": "outurl",
+    "isOnline": "1",
+    "urlImage": "https://ayas.ir/icon/telegram.png"
+  },
+  {
+    "id": "200003",
+    "title": "Eitaa Channels",
+    "filter": "ertebat",
+    "imgurl": "ayas",
+    "channelurl": "https://eitaa.com/ayassport",
+    "description": "",
+    "type": "outurl",
+    "isOnline": "1",
+    "urlImage": "https://ayas.ir/icon/eitaa.png"
+  }
+]
