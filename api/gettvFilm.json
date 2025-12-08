@@ -1,0 +1,46 @@
+[
+  {
+    "id": "-1101",
+    "title": "فیلمدونی",
+    "filter": "film",
+    "imgurl": "cinema",
+    "channelurl": "https://plus.ayas.ir/",
+    "description": "آرشیو فیلم های ایرانی تلویزیون اینترنتی ایاس",
+    "type": "outurl",
+    "isOnline": "1",
+    "urlImage": "https://ayas.ir/icon/irani-min.png"
+  },
+  {
+    "id": "-1100",
+    "title": "آرشیو فیلم ایرانی ایاس",
+    "filter": "film",
+    "imgurl": "cinema",
+    "channelurl": "https://ayas.ir/irani",
+    "description": "آرشیو فیلم های ایرانی تلویزیون اینترنتی ایاس",
+    "type": "outurl",
+    "isOnline": "1",
+    "urlImage": "https://ayas.ir/icon/irani-min.png"
+  },
+  {
+    "id": "-1099",
+    "title": "آرشیو فیلم خارجی ایاس",
+    "filter": "film",
+    "imgurl": "cinema",
+    "channelurl": "https://ayas.ir/khareji",
+    "description": "آرشیو فیلم خارجی تلویزیون اینترنتی ایاس",
+    "type": "outurl",
+    "isOnline": "1",
+    "urlImage": "https://ayas.ir/icon/khareji-min.png"
+  },
+  {
+    "id": "-1098",
+    "title": "آرشیو فیلم کودک و انیمیشن ایاس",
+    "filter": "film",
+    "imgurl": "cinema",
+    "channelurl": "https://ayas.ir/koodak",
+    "description": "آرشیو فیلم کودک و انیمیشن ایاس",
+    "type": "outurl",
+    "isOnline": "1",
+    "urlImage": "https://ayas.ir/icon/koodak-min.png"
+  }
+]
