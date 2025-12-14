@@ -23,14 +23,14 @@
   },
   {
     "id": "-6000899",
-    "title": "tv3",
+    "title": "Bein Sport 1",
     "filter": "tv",
     "imgurl": "tv3",
-    "channelurl": "https://stream.ayas.ir/hls2/tv3test.m3u8",
+    "channelurl": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch2/adaptive.m3u8",
     "description": "شبکه 3 صدا و سیمای ایران",
     "type": "m3u8",
     "isOnline": "1",
-    "urlImage": ""
+    "urlImage": "https://iraqapps.github.io/earthlinksport/img/b2.png"
   },
   {
     "id": "-6000099",
