@@ -89,25 +89,25 @@
   },
   {
     "id": "-6000985",
-    "title": "Bein Sport 9",
-    "filter": "sport",
-    "imgurl": "bein",
-    "channelurl": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch9/adaptive.m3u8",
-    "description": "",
-    "type": "m3u8",
-    "isOnline": "1",
-    "urlImage": "https://iraqapps.github.io/earthlinksport/img/b9.png"
-  },
-  {
-    "id": "-6000885",
-    "title": "Bein Sport 10",
+    "title": "Starzplay Sports 1",
     "filter": "sport",
     "imgurl": "bein",
     "channelurl": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch10/adaptive.m3u8",
     "description": "",
     "type": "m3u8",
     "isOnline": "1",
-    "urlImage": "https://iraqapps.github.io/earthlinksport/img/b10.png"
+    "urlImage": "https://iraqapps.github.io/earthlinksport/img/ztarz1.png"
+  },
+  {
+    "id": "-6000885",
+    "title": "Starzplay Sports 2",
+    "filter": "sport",
+    "imgurl": "bein",
+    "channelurl": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch9/adaptive.m3u8",
+    "description": "",
+    "type": "m3u8",
+    "isOnline": "1",
+    "urlImage": "https://iraqapps.github.io/earthlinksport/img/starz2.png"
   },
   {
     "id": "-6000785",
