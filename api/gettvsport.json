@@ -7,8 +7,19 @@
     "channelurl": "https://iraqapps.github.io/shabakatytv/img/test/test.m3u8",
     "description": "",
     "type": "outurl",
-    "isOnline": "1",
+    "isOnline": "0",
     "urlImage": "https://ayas.ir/icon/idpay.png"
+  },
+  {
+    "id": "-6000999",
+    "title": "بث تجريبي",
+    "filter": "tv",
+    "imgurl": "tv3",
+    "channelurl": "https://iraqapps.github.io/shabakatytv/img/test/test.m3u8",
+    "description": "شبکه 3 صدا و سیمای ایران",
+    "type": "m3u8",
+    "isOnline": "1",
+    "urlImage": "https://iraqapps.github.io/shabakatytv/img/test.png"
   },
   {
     "id": "-6000999",
@@ -23,7 +34,7 @@
   },
   {
     "id": "-6000899",
-    "title": "Bein Sport 1",
+    "title": "Bein Sport 2",
     "filter": "tv",
     "imgurl": "tv3",
     "channelurl": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch2/adaptive.m3u8",
