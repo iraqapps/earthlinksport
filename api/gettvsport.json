@@ -111,25 +111,25 @@
   },
   {
     "id": "-6000785",
-    "title": "bein sport 1 ",
+    "title": "AD Sports 1",
     "filter": "sport",
     "imgurl": "bein",
-    "channelurl": "https://wo.cma.footballii.ir/hls2/bein1.m3u8",
+    "channelurl": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch11/adaptive.m3u8",
     "description": "",
     "type": "m3u8",
     "isOnline": "1",
-    "urlImage": "https://ayas.ir/icon/bein.png"
+    "urlImage": "https://iraqapps.github.io/earthlinksport/img/ad1.png"
   },
   {
     "id": "-6000056",
-    "title": "Lenz Sport  ",
+    "title": "AD Sports 2",
     "filter": "sport",
     "imgurl": "lenz",
-    "channelurl": "https://lenz.ayassport.ir/wh7f454c46tw1551684064_2044310093/PLTV/88888888/224/3221227061/index.m3u8?tenantId=9804",
+    "channelurl": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch12/adaptive.m3u8",
     "description": "استادیوم لنز",
     "type": "m3u8",
     "isOnline": "1",
-    "urlImage": "https://ayas.ir/icon/lenz.png"
+    "urlImage": "https://iraqapps.github.io/earthlinksport/img/ad2.png"
   },
   {
     "id": "-6000058",
