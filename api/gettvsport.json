@@ -1,27 +1,5 @@
 [
   {
-    "id": "-16001",
-    "title": "بث تجريبي",
-    "filter": "sport",
-    "imgurl": "idpay",
-    "channelurl": "https://iraqapps.github.io/shabakatytv/img/test/test.m3u8",
-    "description": "",
-    "type": "outurl",
-    "isOnline": "0", 
-    "urlImage": "https://ayas.ir/icon/idpay.png"
-  },
-  {
-    "id": "-6000999",
-    "title": "بث تجريبي",
-    "filter": "tv",
-    "imgurl": "tv3",
-    "channelurl": "https://iraqapps.github.io/shabakatytv/img/test/test.m3u8",
-    "description": "شبکه 3 صدا و سیمای ایران",
-    "type": "m3u8",
-    "isOnline": "1",
-    "urlImage": "https://iraqapps.github.io/earthlinksport/img/test.png"
-  },
-  {
     "id": "-6000999",
     "title": "Bein Sport 1",
     "filter": "tv",
@@ -45,91 +23,91 @@
   },
   {
     "id": "-6000099",
-    "title": "tv3 Telewebion",
+    "title": "Bein Sport 3",
     "filter": "tv",
     "imgurl": "tv3",
-    "channelurl": "https://cdn.telewebion.com/tv3/live/playlist.m3u8",
+    "channelurl": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch3/adaptive.m3u8",
     "description": "شبکه 3 صدا و سیمای ایران",
     "type": "m3u8",
     "isOnline": "1",
-    "urlImage": ""
+    "urlImage": "https://iraqapps.github.io/earthlinksport/img/b3.png"
   },
   {
     "id": "-6000090",
-    "title": "Varzesh TV ",
+    "title": "Bein Sport 4",
     "filter": "tv",
     "imgurl": "varzesh",
-    "channelurl": "https://stream.ayas.ir/hls2/varzeshtest.m3u8",
+    "channelurl": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch4/adaptive.m3u8",
     "description": "شبکه 3 صدا و سیمای ایران",
     "type": "m3u8",
     "isOnline": "1",
-    "urlImage": ""
+    "urlImage": "https://iraqapps.github.io/earthlinksport/img/b4.png"
   },
   {
     "id": "-6000090",
-    "title": "Varzesh TV ",
+    "title": "Bein Sport 5",
     "filter": "tv",
     "imgurl": "varzesh",
-    "channelurl": "https://stream.ayas.ir/hls2/varzeshtest.m3u8",
+    "channelurl": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch5/adaptive.m3u8",
     "description": "شبکه 3 صدا و سیمای ایران",
     "type": "m3u8",
     "isOnline": "1",
-    "urlImage": ""
+    "urlImage": "https://iraqapps.github.io/earthlinksport/img/b5.png"
   },
   {
     "id": "-6000090",
-    "title": "Varzesh TV Telewebion ",
+    "title": "Bein Sport 6",
     "filter": "tv",
     "imgurl": "varzesh",
-    "channelurl": "https://cdn.telewebion.com/varzesh/live/playlist.m3u8",
+    "channelurl": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch6/adaptive.m3u8",
     "description": "شبکه 3 صدا و سیمای ایران",
     "type": "m3u8",
     "isOnline": "1",
-    "urlImage": ""
+    "urlImage": "https://iraqapps.github.io/earthlinksport/img/b6.png"
   },
   {
     "id": "-6000095",
-    "title": "Persiana sport نیم بهاء",
+    "title": "Bein Sport 7",
     "filter": "sport",
     "imgurl": "sport",
-    "channelurl": "https://stream.ayas.ir/hls2/persiana.m3u8",
+    "channelurl": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch7/adaptive.m3u8",
     "description": "persiana sport",
     "type": "m3u8",
     "isOnline": "1",
-    "urlImage": "https://ayas.ir/icon/persianasport.jpg"
+    "urlImage": "https://iraqapps.github.io/earthlinksport/img/b7.png"
   },
   {
     "id": "-6000095",
-    "title": "Persiana sport نیم بهاء",
+    "title": "Bein Sport 8",
     "filter": "sport",
     "imgurl": "sport",
-    "channelurl": "https://stream.ayas.ir/hls2/persiana.m3u8",
+    "channelurl": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch8/adaptive.m3u8",
     "description": "persiana sport",
     "type": "m3u8",
     "isOnline": "1",
-    "urlImage": "https://ayas.ir/icon/persianasport.jpg"
+    "urlImage": "https://iraqapps.github.io/earthlinksport/img/b8.png"
   },
   {
     "id": "-6000985",
-    "title": "bein sport 1 ",
+    "title": "Bein Sport 9",
     "filter": "sport",
     "imgurl": "bein",
-    "channelurl": "https://stream.ayas.ir/hls2/bein1.m3u8",
+    "channelurl": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch9/adaptive.m3u8",
     "description": "",
     "type": "m3u8",
     "isOnline": "1",
-    "urlImage": "https://ayas.ir/icon/bein.png"
+    "urlImage": "https://iraqapps.github.io/earthlinksport/img/b9.png"
   },
   {
     "id": "-6000885",
-    "title": "bein sport 1 ",
+    "title": "Bein Sport 10",
     "filter": "sport",
     "imgurl": "bein",
-    "channelurl": "https://stream.ayas.ir/hls2/bein1.m3u8",
+    "channelurl": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch10/adaptive.m3u8",
     "description": "",
     "type": "m3u8",
     "isOnline": "1",
-    "urlImage": "https://ayas.ir/icon/bein.png"
+    "urlImage": "https://iraqapps.github.io/earthlinksport/img/b10.png"
   },
   {
     "id": "-6000785",
