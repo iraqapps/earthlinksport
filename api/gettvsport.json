@@ -7,7 +7,7 @@
     "channelurl": "https://iraqapps.github.io/shabakatytv/img/test/test.m3u8",
     "description": "",
     "type": "outurl",
-    "isOnline": "0",
+    "isOnline": "",
     "urlImage": "https://ayas.ir/icon/idpay.png"
   },
   {
@@ -19,7 +19,7 @@
     "description": "شبکه 3 صدا و سیمای ایران",
     "type": "m3u8",
     "isOnline": "1",
-    "urlImage": "https://iraqapps.github.io/shabakatytv/img/test.png"
+    "urlImage": "https://iraqapps.github.io/earthlinksport/img/test.png"
   },
   {
     "id": "-6000999",
