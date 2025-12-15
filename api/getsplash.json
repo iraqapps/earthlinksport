@@ -1,21 +1,21 @@
 [
   {
-    "form_name": "ayas",
+    "form_name": "mytv",
     "form_id": "1",
     "form_status": "1"
   },
   {
-    "form_name": "sport",
+    "form_name": "supertv",
     "form_id": "2",
     "form_status": "1"
   },
   {
-    "form_name": "mazhabi",
+    "form_name": "veo",
     "form_id": "3",
     "form_status": "1"
   },
   {
-    "form_name": "tv",
+    "form_name": "shabakaty",
     "form_id": "4",
     "form_status": "1"
   },
