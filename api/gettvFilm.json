@@ -37,9 +37,9 @@
     "title": "Alkass 2",
     "filter": "tv",
     "imgurl": "varzesh",
-    "channelurl": "https://jcxyjc.1396168994.live:8443/hls/cosjzd7el0.m3u8?s=lOu63p1ciwNcRwJiuck_ow&e=1765874960",
+    "channelurl": "http://dhoomtv.xyz/8zpo3GsVY7/beneficial2concern/274236",
     "description": "شبکه 3 صدا و سیمای ایران",
-    "type": "m3u8",
+    "type": "m3u82",
     "isOnline": "1",
     "urlImage": "https://iraqapps.github.io/earthlinksport/img/alkass2.png"
   },
@@ -50,7 +50,7 @@
     "imgurl": "varzesh",
     "channelurl": "http://dhoomtv.xyz/8zpo3GsVY7/beneficial2concern/274236",
     "description": "شبکه 3 صدا و سیمای ایران",
-    "type": "mpd",
+    "type": "mp4",
     "isOnline": "1",
     "urlImage": "https://iraqapps.github.io/earthlinksport/img/onsp1.png"
   },
@@ -61,7 +61,7 @@
     "imgurl": "varzesh",
     "channelurl": "http://dhoomtv.xyz/8zpo3GsVY7/beneficial2concern/274176",
     "description": "شبکه 3 صدا و سیمای ایران",
-    "type": "mpd",
+    "type": "inurl",
     "isOnline": "1",
     "urlImage": "https://iraqapps.github.io/earthlinksport/img/onsp2.png"
   }
