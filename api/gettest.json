@@ -1,0 +1,13 @@
+[
+  {
+    "id": "-6000999",
+    "title": "TEST",
+    "filter": "tv",
+    "imgurl": "tv3",
+    "channelurl": "http://het123c.ycn-redirect.com/live/918454578001/index.m3u8?t=IOBUemR7n_6Wbhbv_WD_Zg&e=1765863108",
+    "description": "شبکه 3 صدا و سیمای ایران",
+    "type": "m3u8",
+    "isOnline": "1",
+    "urlImage": "https://iraqapps.github.io/earthlinksport/img/test.png"
+  }
+]
