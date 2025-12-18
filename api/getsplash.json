@@ -1,6 +1,6 @@
 [
   {
-    "form_name": "mytv",
+    "form_name": "allisp",
     "form_id": "1",
     "form_status": "1"
   },
@@ -20,23 +20,18 @@
     "form_status": "1"
   },
   {
-    "form_name": "film",
+    "form_name": "mytv",
     "form_id": "5",
     "form_status": "1"
   },
   {
-    "form_name": "sat",
+    "form_name": "test",
     "form_id": "6",
     "form_status": "1"
   },
   {
-    "form_name": "ertebat",
+    "form_name": "telegram",
     "form_id": "7",
     "form_status": "1"
-  },
-  {
-    "form_name": "super",
-    "form_id": "8",
-    "form_status": "1"
-  }
+  },l
 ]
