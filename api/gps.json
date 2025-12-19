@@ -1,0 +1,16 @@
+{ 
+  "status": "success", 
+  "country": "Iraq", 
+  "countryCode": "IQ", 
+  "region": "NI", 
+  "regionName": "Baghdad", 
+  "city": "Baghdad", 
+  "zip": "", 
+  "lat": 1.0, 
+  "lon": 1.0, 
+  "timezone": "Asia/Baghdad", 
+  "isp": "", 
+  "org": "", 
+  "as": "0", 
+  "query": "1.1.1.1" 
+}  
