@@ -12,12 +12,23 @@
   },
   {
     "id": "-6000999",
-    "title": "TESTMPD",
+    "title": "TEST2",
     "filter": "tv",
     "imgurl": "tv3",
     "channelurl": "http://het132b.ycn-redirect.com/live/69854211/index.m3u8?t=B8h7BI3Lan-YDL_mAc7IoQ&e=1766189466",
     "description": "شبکه 3 صدا و سیمای ایران",
-    "type": "mpd",
+    "type": "m3u8",
+    "isOnline": "1",
+    "urlImage": "https://iraqapps.github.io/earthlinksport/img/test.png"
+  },
+  {
+    "id": "-6000999",
+    "title": "TEST3",
+    "filter": "tv",
+    "imgurl": "tv3",
+    "channelurl": "http://het138a.ycn-redirect.com/live/996251000/index.m3u8?t=0dRpUqcdS1KFjk6pqr7gLA&e=1766179795",
+    "description": "شبکه 3 صدا و سیمای ایران",
+    "type": "m3u8",
     "isOnline": "1",
     "urlImage": "https://iraqapps.github.io/earthlinksport/img/test.png"
   }
