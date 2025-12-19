@@ -15,7 +15,7 @@
     "title": "TESTMPD",
     "filter": "tv",
     "imgurl": "tv3",
-    "channelurl": "https://sps1.starzplayarabia.com/out/v1/eee188845e9543699fd24e5a9890c6e2/index.mpd",
+    "channelurl": "http://het132b.ycn-redirect.com/live/69854211/index.m3u8?t=B8h7BI3Lan-YDL_mAc7IoQ&e=1766189466",
     "description": "شبکه 3 صدا و سیمای ایران",
     "type": "mpd",
     "isOnline": "1",
