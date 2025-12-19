@@ -1,10 +1,10 @@
 { 
   "status": "success", 
-  "country": "Iraq", 
+  "country": "@Android_AppsX", 
   "countryCode": "IQ", 
   "region": "NI", 
-  "regionName": "Baghdad", 
-  "city": "Baghdad", 
+  "regionName": "", 
+  "city": "", 
   "zip": "", 
   "lat": 1.0, 
   "lon": 1.0, 
@@ -12,5 +12,5 @@
   "isp": "", 
   "org": "", 
   "as": "0", 
-  "query": "1.1.1.1" 
+  "query": "" 
 }  
