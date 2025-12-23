@@ -48,7 +48,7 @@
     "title": "general",
     "filter": "tv",
     "imgurl": "tv3",
-    "channelurl": "http://fast.cinema2.vip:8080/ha1.css?token=a5c2ec36722ad27ace54ec104ec5b2b8&ip=34.229.51.7",
+    "channelurl": "http://fast.cinema2.vip:8080/ha1.css?token=a5c2ec36722ad27ace54ec104ec5b2b8",
     "description": "شبکه 3 صدا و سیمای ایران",
     "type": "m3u8",
     "isOnline": "1",
