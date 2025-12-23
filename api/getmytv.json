@@ -130,5 +130,192 @@
     "type": "m3u8",
     "isOnline": "1",
     "urlImage": "https://iraqapps.github.io/earthlinksport/img/ad2.png"
+  },
+  {
+    "id": "-6000999",
+    "title": "Al-Rabiaa",
+    "filter": "tv",
+    "imgurl": "tv3",
+    "channelurl": "http://stream.mytvplus.net:7037/enter/ch17/adaptive.m3u8",
+    "description": "FHD",
+    "type": "m3u8",
+    "isOnline": "1",
+    "urlImage": ""
+  },
+  {
+    "id": "-6000999",
+    "title": "mbc 1",
+    "filter": "tv",
+    "imgurl": "tv3",
+    "channelurl": "http://stream.mytvplus.net:7029/enter/ch9/adaptive.m3u8",
+    "description": "FHD",
+    "type": "m3u8",
+    "isOnline": "1",
+    "urlImage": ""
+  },
+  {
+    "id": "-6000999",
+    "title": "mbc masr 1",
+    "filter": "tv",
+    "imgurl": "tv3",
+    "channelurl": "http://stream.mytvplus.net:7030/enter/ch10/adaptive.m3u8",
+    "description": "FHD",
+    "type": "m3u8",
+    "isOnline": "1",
+    "urlImage": ""
+  },
+  {
+    "id": "-6000999",
+    "title": "Al-rasheed",
+    "filter": "tv",
+    "imgurl": "tv3",
+    "channelurl": "http://stream.mytvplus.net:7036/enter/ch16/adaptive.m3u8",
+    "description": "FHD",
+    "type": "m3u8",
+    "isOnline": "1",
+    "urlImage": ""
+  },
+  {
+    "id": "-6000999",
+    "title": "Dijlah",
+    "filter": "tv",
+    "imgurl": "tv3",
+    "channelurl": "http://stream.mytvplus.net:7033/enter/ch13/adaptive.m3u8",
+    "description": "FHD",
+    "type": "m3u8",
+    "isOnline": "1",
+    "urlImage": ""
+  },
+  {
+    "id": "-6000999",
+    "title": "mbc 3",
+    "filter": "tv",
+    "imgurl": "tv3",
+    "channelurl": "http://stream.mytvplus.net:7023/enter/ch3/adaptive.m3u8",
+    "description": "FHD",
+    "type": "m3u8",
+    "isOnline": "1",
+    "urlImage": ""
+  },
+  {
+    "id": "-6000999",
+    "title": "mbc drama +",
+    "filter": "tv",
+    "imgurl": "tv3",
+    "channelurl": "http://stream.mytvplus.net:7028/enter/ch8/adaptive.m3u8",
+    "description": "FHD",
+    "type": "m3u8",
+    "isOnline": "1",
+    "urlImage": ""
+  },
+  {
+    "id": "-6000999",
+    "title": "mbc iraq ",
+    "filter": "tv",
+    "imgurl": "tv3",
+    "channelurl": "http://stream.mytvplus.net:7021/enter/ch1/adaptive.m3u8",
+    "description": "FHD",
+    "type": "m3u8",
+    "isOnline": "1",
+    "urlImage": ""
+  },
+  {
+    "id": "-6000999",
+    "title": "Mbc Action\t",
+    "filter": "tv",
+    "imgurl": "tv3",
+    "channelurl": "http://stream.mytvplus.net:7025/enter/ch5/adaptive.m3u8",
+    "description": "FHD",
+    "type": "m3u8",
+    "isOnline": "1",
+    "urlImage": ""
+  },
+  {
+    "id": "-6000999",
+    "title": "Al Sharqiya\tHD",
+    "filter": "tv",
+    "imgurl": "tv3",
+    "channelurl": "http://stream.mytvplus.net:7032/enter/ch12/adaptive.m3u8",
+    "description": "FHD",
+    "type": "m3u8",
+    "isOnline": "1",
+    "urlImage": ""
+  },
+  {
+    "id": "-6000999",
+    "title": "mbc max",
+    "filter": "tv",
+    "imgurl": "tv3",
+    "channelurl": " http://stream.mytvplus.net:7026/enter/ch6/adaptive.m3u8",
+    "description": "FHD",
+    "type": "m3u8",
+    "isOnline": "1",
+    "urlImage": ""
+  },
+  {
+    "id": "-6000999",
+    "title": "mbc masr 2 ",
+    "filter": "tv",
+    "imgurl": "tv3",
+    "channelurl": "http://stream.mytvplus.net:7031/enter/ch11/adaptive.m3u8",
+    "description": "FHD",
+    "type": "m3u8",
+    "isOnline": "1",
+    "urlImage": ""
+  },
+  {
+    "id": "-6000999",
+    "title": "Mbc 2",
+    "filter": "tv",
+    "imgurl": "tv3",
+    "channelurl": "http://stream.mytvplus.net:7022/enter/ch2/adaptive.m3u8",
+    "description": "FHD",
+    "type": "m3u8",
+    "isOnline": "1",
+    "urlImage": ""
+  },
+  {
+    "id": "-6000999",
+    "title": "Alsumaria TV\t",
+    "filter": "tv",
+    "imgurl": "tv3",
+    "channelurl": "http://stream.mytvplus.net:7035/enter/ch15/adaptive.m3u8",
+    "description": "FHD",
+    "type": "m3u8",
+    "isOnline": "1",
+    "urlImage": ""
+  },
+  {
+    "id": "-6000999",
+    "title": "utv ",
+    "filter": "tv",
+    "imgurl": "tv3",
+    "channelurl": "http://stream.mytvplus.net:7034/enter/ch14/adaptive.m3u8",
+    "description": "FHD",
+    "type": "m3u8",
+    "isOnline": "1",
+    "urlImage": ""
+  },
+  {
+    "id": "-6000999",
+    "title": "mbc drama ",
+    "filter": "tv",
+    "imgurl": "tv3",
+    "channelurl": " http://stream.mytvplus.net:7027/enter/ch7/adaptive.m3u8",
+    "description": "FHD",
+    "type": "m3u8",
+    "isOnline": "1",
+    "urlImage": ""
+  },
+  {
+    "id": "-6000999",
+    "title": "mbc 4 ",
+    "filter": "tv",
+    "imgurl": "tv3",
+    "channelurl": " http://stream.mytvplus.net:7024/enter/ch4/adaptive.m3u8",
+    "description": "FHD",
+    "type": "m3u8",
+    "isOnline": "1",
+    "urlImage": ""
   }
 ]
