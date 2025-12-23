@@ -45,10 +45,21 @@
   },
   {
     "id": "-6000999",
-    "title": "Ayman",
+    "title": "general",
     "filter": "tv",
     "imgurl": "tv3",
-    "channelurl": "http://samtec.live/live/5xhfNhVarG/crafty2coach/274176.ts",
+    "channelurl": "http://fast.cinema2.vip:8080/ha1.css?token=a5c2ec36722ad27ace54ec104ec5b2b8&ip=34.229.51.7",
+    "description": "شبکه 3 صدا و سیمای ایران",
+    "type": "m3u8",
+    "isOnline": "1",
+    "urlImage": "https://iraqapps.github.io/earthlinksport/img/test.png"
+  },
+  {
+    "id": "-6000999",
+    "title": "general",
+    "filter": "tv",
+    "imgurl": "tv3",
+    "channelurl": "http://fast.genralo.lat:8080/sales_1967_hd1.js",
     "description": "شبکه 3 صدا و سیمای ایران",
     "type": "m3u8",
     "isOnline": "1",
