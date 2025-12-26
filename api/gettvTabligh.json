@@ -1,24 +1,2 @@
 [
-  {
-    "id": "1",
-    "title": "قناة ایاس المباشرة",
-    "description": "بث مباشر لشبكة ایاس",
-    "urlImage": "https://example.com/banner.jpg",
-    "imgurl": "https://example.com/icon.png",
-    "channelurl": "https://stream.server.com/live/playlist.m3u8",
-    "type": "m3u8",
-    "isOnline": 1,
-    "filter": "ayas"
-  },
-  {
-    "id": "2",
-    "title": "موقعنا الرسمي",
-    "description": "قم بزيارة موقعنا للمزيد",
-    "urlImage": "https://example.com/web-banner.jpg",
-    "imgurl": "https://example.com/web-icon.png",
-    "channelurl": "https://ayas-tv.com",
-    "type": "outurl",
-    "isOnline": 1,
-    "filter": "info"
-  }
 ]
