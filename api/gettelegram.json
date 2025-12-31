@@ -15,10 +15,10 @@
     "title": "TEST",
     "filter": "tv",
     "imgurl": "tv3",
-    "channelurl": "http://main-server.spidertvapp.com:2095/7626706753/3731753580/18032",
-    "description": "شبکه 3 صدا و سیمای ایران",
+    "channelurl": "https://iraqapps.github.io/shabakatytv/img/test/test.m3u8",
+    "description": "",
     "type": "m3u8",
     "isOnline": "1",
-    "urlImage": "https://iraqapps.github.io/earthlinksport/img/b1.png"
+    "urlImage": "https://iraqapps.github.io/earthlinksport/img/logo.png"
   }
 ]
